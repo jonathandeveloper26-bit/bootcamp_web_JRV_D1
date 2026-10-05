@@ -1,0 +1,13 @@
+Howdy!
+I am studying at Epitech
+there is a pattern in these words
+
+I will search for the pattern 'ol'
+
+
+ol ol ol ol ol ol
+
+
+ol
+ol
+
