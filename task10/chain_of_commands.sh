@@ -1,12 +1,4 @@
 #!/bin/bash
 
-file="./task10/logs.txt"
+echo $(grep -io "error" ".logs/txt" | head -n 5)
 
-content=$(cat "$file")
-
-echo "$content"
-
-echo "End of Content"
-matches=$(grep -io "ol" "$file" | head -n 5)
-
-echo "$matches"
